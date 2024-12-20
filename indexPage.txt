@@ -1,0 +1,2 @@
+this is index page 
+this added in ignore file 
